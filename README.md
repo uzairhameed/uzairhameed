@@ -1,6 +1,6 @@
 # Hey there, I'm Uzair Hameed 👋
 
-I'm **DevOps Engineer** based in Lahore, Pakistan 🇵🇰, currently at the beginning of my DevOps journey and loving every bit of it. I enjoy getting my hands dirty with containers, monitoring stacks, and automation — learning by building real things and breaking them (in dev, hopefully 😄). Always curious, always improving.
+I'm an **Associate DevOps Engineer** based in Lahore, Pakistan 🇵🇰, currently at the beginning of my DevOps journey and loving every bit of it. I enjoy getting my hands dirty with containers, monitoring stacks, and automation — learning by building real things and breaking them (in dev, hopefully 😄). Always curious, always improving.
 
 ---
 
