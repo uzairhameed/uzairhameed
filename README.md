@@ -80,15 +80,6 @@ I enjoy contributing to projects I actually use — fixing real gaps, improving 
 
 ---
 
-## ⚽ Beyond the Terminal
-
-When I'm not debugging pipelines or writing YAML, you'll find me:
-- Following football ⚽ — always up for a match discussion
-- Contributing to open source projects 🌍
-- Learning something new in the DevOps/cloud space 📚
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzairhameed/)
