@@ -1,6 +1,6 @@
 # Hey there, I'm Uzair Hameed 👋
 
-I'm an **Associate DevOps Engineer** based in Lahore, Pakistan 🇵🇰, passionate about building reliable infrastructure, automating the boring stuff, and keeping systems healthy and observable. I enjoy bridging the gap between development and operations — making deployments smoother, systems more stable, and on-call life a little less stressful.
+I'm **DevOps Engineer** based in Lahore, Pakistan 🇵🇰, currently at the beginning of my DevOps journey and loving every bit of it. I enjoy getting my hands dirty with containers, monitoring stacks, and automation — learning by building real things and breaking them (in dev, hopefully 😄). Always curious, always improving.
 
 ---
 
@@ -12,17 +12,16 @@ I'm an **Associate DevOps Engineer** based in Lahore, Pakistan 🇵🇰, passion
 - 🗄️ **Database Management** — PostgreSQL, MySQL, MongoDB with HA configurations & failover handling
 - ⚙️ **Automation** — Bash scripting to eliminate repetitive ops work
 - 🔁 **SRE Practices** — Incident response, performance tuning, and deployment workflow improvements
-- ☁️ **Cloud** — AWS infrastructure and Terraform for repeatable, code-driven environments
 
 ---
 
-## 🚀 Problems I've Solved
+## 🚀 What I've Worked On
 
-- Built a **centralized logging pipeline** using the ELK Stack with high availability — collecting and analyzing logs across multiple services in production
-- Set up **Prometheus + Grafana monitoring** with alerting so issues get caught before users notice
-- Configured **HA database setups** for PostgreSQL, MySQL, and MongoDB to minimize downtime and handle failovers gracefully
-- Wrote **Bash automation scripts** that cut down manual operational work significantly
-- Improved **deployment workflows** by collaborating with dev teams and containerizing application environments with Docker
+- Built a centralized logging pipeline using the ELK Stack with high availability — collecting and analyzing logs across multiple services in a production environment
+- Set up Prometheus + Grafana monitoring with alerting rules to surface issues before they impact users
+- Configured high availability setups for PostgreSQL, MySQL, and MongoDB to handle failovers and reduce unplanned downtime
+- Automated repetitive operational tasks with Bash scripts, reducing manual steps in the team's day-to-day workflow
+- Worked with dev teams to containerize application environments using Docker, making deployments more consistent and easier to manage
 
 ---
 
@@ -44,6 +43,7 @@ I'm an **Associate DevOps Engineer** based in Lahore, Pakistan 🇵🇰, passion
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 
 **Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -52,24 +52,31 @@ I'm an **Associate DevOps Engineer** based in Lahore, Pakistan 🇵🇰, passion
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzairhameed&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairhameed&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairhameed&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairhameed&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+---
+
+## 🤝 Open Source Contributions
+
+I enjoy contributing to projects I actually use — fixing real gaps, improving docs, and making things more secure.
+
+| Project | PR | What I Did | Status |
+|---|---|---|---|
+| [etcd-io/website](https://github.com/etcd-io/website) | [#1174](https://github.com/etcd-io/website/pull/1174) | Added missing Docker installation instructions for v3.5, v3.6 & v3.7 — the official docs had no Docker section despite the release notes including it | ✅ Merged |
+| [kubestellar/kubestellar-mcp](https://github.com/kubestellar/kubestellar-mcp) | [#239](https://github.com/kubestellar/kubestellar-mcp/pull/239) | Added `.github/CODEOWNERS` to enforce review routing on critical MCP tool handler paths (`cmd/`, `pkg/`, `commands/`) — fixed a Scorecard security finding where only 10/24 changesets had an approving review | ✅ Merged |
+| [metal3-io/metal3-io.github.io](https://github.com/metal3-io/metal3-io.github.io) | — | Contributing to the metal3.io website | 🔄 In Review |
 
 ---
 
 ## 🌱 Currently Exploring
 
-- Multi-cluster Kubernetes management (contributing to **KubeStellar MCP**)
-- GitOps workflows and ArgoCD
-- Advanced Terraform modules for AWS
+- CI/CD pipelines with **Jenkins** — understanding build automation and pipeline-as-code
+- Kubernetes for container orchestration (on the roadmap next)
+- Terraform for infrastructure as code (coming after Kubernetes)
 
 ---
 
