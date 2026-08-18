@@ -68,7 +68,7 @@ I enjoy contributing to projects I actually use — fixing real gaps, improving 
 |---|---|---|---|
 | [etcd-io/website](https://github.com/etcd-io/website) | [#1174](https://github.com/etcd-io/website/pull/1174) | Added missing Docker installation instructions for v3.5, v3.6 & v3.7 — the official docs had no Docker section despite the release notes including it | ✅ Merged |
 | [kubestellar/kubestellar-mcp](https://github.com/kubestellar/kubestellar-mcp) | [#239](https://github.com/kubestellar/kubestellar-mcp/pull/239) | Added `.github/CODEOWNERS` to enforce review routing on critical MCP tool handler paths (`cmd/`, `pkg/`, `commands/`) — fixed a Scorecard security finding where only 10/24 changesets had an approving review | ✅ Merged |
-| [metal3-io/metal3-io.github.io](https://github.com/metal3-io/metal3-io.github.io) | — | Contributing to the metal3.io website | 🔄 In Review |
+| [metal3-io/metal3-io.github.io](https://github.com/metal3-io/metal3-io.github.io) | [#633](https://github.com/metal3-io/metal3-io.github.io/pull/633) | Fix broken link in network-configuration FAQ | ✅ Merged |
 
 ---
 
